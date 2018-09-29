@@ -1,0 +1,3 @@
+[submodule "ForFFT_wrapper"]
+	path = ForFFT_wrapper
+	url = https://github.com/shookware/ForFFT_wrapper.git
